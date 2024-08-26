@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Utvärdera uttrycket, $$tan\\left(\\frac{19\\pi}{4}\\right)$$ .",
-    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "stepBody": "Det kan vara användbart att ta fram en bild av enhetscirkeln som referens.",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-1$$"

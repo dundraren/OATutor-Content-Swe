@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Utvärdera uttrycket, $$sin\\left(\\frac{\\left(-3\\pi\\right)}{4}\\right)$$ .",
-    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "stepBody": "Det kan vara användbart att ta fram en bild av enhetscirkeln för referens.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$\\frac{-\\sqrt{2}}{2}$$",

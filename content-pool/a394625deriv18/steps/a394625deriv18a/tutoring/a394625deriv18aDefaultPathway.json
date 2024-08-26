@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}cos^$\\left(x\\righ$$"
+            "$$\\frac{1}{\\cos^2\\left(x\\right)}$$"
         ],
         "dependencies": [
             "a394625deriv18a-h1"

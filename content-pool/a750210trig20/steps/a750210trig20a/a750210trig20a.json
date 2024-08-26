@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "För följande övningar, betrakta triangel ABC, en rätvinklig triangel med en rät vinkel vid C. $$a=84$$, $$b=13$$. Hitta den saknade sidan av triangeln.",
-    "stepBody": "For this step round to $$1$$ decimal place",
+    "stepBody": "För detta steg, avrunda till $$1$$ decimal.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$c=85$$",

@@ -73,7 +73,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$/lim{h,0$$, $$2x-2+h$$}"
+            "$$/lim{h,0$$, $$2x-2+h$$"
         ],
         "dependencies": [
             "acf60f3DerivativeFunction2a-h5"

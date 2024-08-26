@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Utvärdera uttrycket, $$\\operatorname{sec}\\left(\\frac{\\pi}{6}\\right)$$ .",
-    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "stepBody": "Det kan vara användbart att ta fram en bild av enhetscirkeln som referens.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$\\frac{2}{\\sqrt{3}}$$",

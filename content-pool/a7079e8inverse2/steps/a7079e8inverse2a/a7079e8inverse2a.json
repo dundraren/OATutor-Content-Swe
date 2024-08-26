@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "$$f(x)=x^2+3x+2$$, $$x$$ större än eller lika med $$\\frac{-3}{2}$$, $$a=2$$",
-    "stepBody": "Input your answer as a fraction excluding the $$\"f(x)=\"$$ part.",
+    "stepBody": "Skriv in ditt svar som en bråkdel exklusive $$\"f(x)=\"$$-delen.",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$\\frac{1}{2}$$"

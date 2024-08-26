@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "$$y=x^3$$ och $$y=x^2+x$$",
-    "stepBody": "##figure1.gif## ",
+    "stepBody": "##figure1.gif##",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$\\frac{13}{12}$$"

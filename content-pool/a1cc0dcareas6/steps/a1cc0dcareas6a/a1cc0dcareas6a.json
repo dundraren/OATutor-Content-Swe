@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "$$y=x^2-3$$ och $$y=1$$",
-    "stepBody": "##figure1.gif## ",
+    "stepBody": "##figure1.gif##",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$\\frac{32}{3}$$"

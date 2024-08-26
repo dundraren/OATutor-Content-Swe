@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$y={cos}^{-1} \\sqrt{x}$$",
-    "stepBody": "Make sure to simplify your square roots when multiplying at the end for your answer.",
+    "stepBody": "Se till att förenkla dina kvadratrötter när du multiplicerar i slutet för ditt svar.",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$\\frac{-1}{2\\sqrt{-\\left(x^2\\right)+x}}$$",

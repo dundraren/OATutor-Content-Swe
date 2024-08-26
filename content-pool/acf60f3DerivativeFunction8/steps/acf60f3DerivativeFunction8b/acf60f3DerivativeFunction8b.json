@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Att hitta en andraderivata",
-    "stepBody": "Next, find f''(x) by taking the derivative of $$f′(x)=4x-3$$.",
+    "stepBody": "Nästa, hitta f''(x) genom att ta derivatan av $$f′(x)=4x-3$$.",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$4$$"

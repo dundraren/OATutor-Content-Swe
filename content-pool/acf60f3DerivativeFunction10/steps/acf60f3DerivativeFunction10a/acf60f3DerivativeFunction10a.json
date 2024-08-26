@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Första derivatan",
-    "stepBody": "First, find the f'(x) using derivative function",
+    "stepBody": "Först, hitta f'(x) med hjälp av derivatafunktionen",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$-3$$"

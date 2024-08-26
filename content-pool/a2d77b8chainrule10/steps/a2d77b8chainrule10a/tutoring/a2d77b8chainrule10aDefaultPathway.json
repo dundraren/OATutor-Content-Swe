@@ -50,7 +50,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "cot(x)"
+            "cotangent"
         ],
         "dependencies": [
             "a2d77b8chainrule10a-h3"

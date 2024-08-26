@@ -72,7 +72,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$/lim{h,0$$, $$\\frac{-9}{x^2+xh}$$}"
+            "$$/lim{h,0$$, $$\\frac{-9}{x^2+xh}$$"
         ],
         "dependencies": [
             "acf60f3DerivativeFunction7a-h5"

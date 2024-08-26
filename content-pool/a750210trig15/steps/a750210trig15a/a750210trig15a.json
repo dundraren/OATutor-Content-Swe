@@ -1,11 +1,11 @@
 {
     "id": "a750210trig15a",
     "stepAnswer": [
-        "(sqrt(3)-1)/(2-sqrt(2)"
+        "\\(\\frac{(x-1)}{(y+2)}\\)"
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "Utvärdera uttrycket, $$sin\\left(\\frac{\\pi}{12}\\right)$$ .",
-    "stepBody": "It may be useful to pull up a picture of the unit circle for reference.",
+    "stepBody": "Det kan vara användbart att ta fram en bild av enhetscirkeln som referens.",
     "answerType": "string",
     "variabilization": {},
     "choices": [

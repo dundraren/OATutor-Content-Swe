@@ -15,7 +15,7 @@
         "problemType": "MultipleChoice",
         "answerType": "string",
         "hintAnswer": [
-            "$$\\frac{1}sin^$\\left(x\\righ$$"
+            "$$\\frac{1}{\\sin(x)}$$"
         ],
         "dependencies": [
             "a394625deriv19a-h1"

@@ -5,7 +5,7 @@
     ],
     "problemType": "MultipleChoice",
     "stepTitle": "$$\\int_{0}^{6} 3-|x-3| \\,dx$$",
-    "stepBody": "The integral is the area of the triangle, which is:",
+    "stepBody": "Integralen är arean av triangeln, vilket är:",
     "answerType": "string",
     "variabilization": {},
     "answerLatex": "$$9$$",

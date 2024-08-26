@@ -5,7 +5,7 @@
     ],
     "problemType": "TextBox",
     "stepTitle": "Första derivata",
-    "stepBody": "First, find the f'(x) using derivative function",
+    "stepBody": "Först, hitta f'(x) med hjälp av derivatafunktionen.",
     "answerType": "arithmetic",
     "variabilization": {},
     "answerLatex": "$$1-\\frac{1}{x^2}$$"
